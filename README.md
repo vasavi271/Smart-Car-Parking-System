@@ -1,1 +1,6 @@
 # Smart-Car-Parking-System
+In these modern days finding car parking is a big issue in congested cities. There are too many vehicles on the road but not enough parking spaces. One of the biggest problems is when we enter a parking area then we realize that there are no empty parking slots to park our cars. Important time. Another biggest problem is after entering in a big parking area we confused to find the empty parking slot to park our car. Sometimes maybe we all have been facing these two problems that wasted our important time. That’s why we need efficient parking management systems in all parking areas that will provide confusion-free and easy parking.
+
+In this tutorial, we will design a “Smart Parking System Project” to overcome this problem. This project helps the car’s driver to park their car with minimum wastage of time with accurate information of the availability of the space to park.
+
+Car parking is a major issue in many malls and cities. To avoid that problem we developed a project on IOT based smart parking system using Arduino ,Wifi module and Node MCU. User can find the slot availability through the web page , we use IR sensor to find the parking slot and the vacancy position is updated on the web page.
